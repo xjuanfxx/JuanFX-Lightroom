@@ -11,13 +11,10 @@ Here is a compilation of the versions and updates received by JuanFX Lightroom, 
 ### October Update Clean (Luadh release)
 https://www.mediafire.com/file/fsscxcuh8g1b60n/JuanFX_Lightroom_2023_October_Update_%255BCLEAN%255D.zip/file
 
-# 2020 First version and update.
+# 2022 Update
 
-### Original Light
-https://www.mediafire.com/file/13zwppi6nxy5gnb/JuanFX_Lightroom.1_%2528V1%2529.zip/file
-### Update
-https://www.mediafire.com/file/7kbrv0zmcmlhgod/JuanFX_Lightroom.2_%25282020_Build_5%2529.zip/file
-
+### July Update
+https://www.mediafire.com/file/yegjx4v0fuo8hua/JuanFX_Lightroom.8_%255B2022%255D_%2528JULY_UPDATE%2529.zip/file
 
 # 2021 Updates
 
@@ -32,9 +29,9 @@ https://www.mediafire.com/file/sqgrync4deoiw82/JuanFX_Lightroom.6_%255B2021%255D
 ### 2021 Update #3
 https://www.mediafire.com/file/a6v9dx8p2nuid8q/JuanFX_Lightroom.7_%255B2021%255D_%2528Update_3%2529.zip/file
 
+# 2020 First version and update.
 
-# 2022 Update
-
-### July Update
-https://www.mediafire.com/file/yegjx4v0fuo8hua/JuanFX_Lightroom.8_%255B2022%255D_%2528JULY_UPDATE%2529.zip/file
-
+### Original Light
+https://www.mediafire.com/file/13zwppi6nxy5gnb/JuanFX_Lightroom.1_%2528V1%2529.zip/file
+### Update
+https://www.mediafire.com/file/7kbrv0zmcmlhgod/JuanFX_Lightroom.2_%25282020_Build_5%2529.zip/file
